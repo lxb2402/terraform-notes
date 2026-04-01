@@ -1,11 +1,12 @@
-# DevOps Labs
+# Terraform Lab
 
-My learning repository for Git, Azure, Terraform, and DevOps basics.
+My first Terraform practice repo.
 
-## Current focus
-- GitHub basics
-- Terraform fundamentals
-- Azure beginner labs
+## What I learned
+- terraform init prepares the working directory
+- terraform plan shows proposed changes
+- terraform apply performs the changes
+- outputs can display values from the configuration
 
-## Notes
-This repo contains study notes, small practice labs, and project experiments.
+## Files
+- main.tf: main Terraform configuration
